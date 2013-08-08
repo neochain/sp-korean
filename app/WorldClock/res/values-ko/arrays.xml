@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="days_of_week">
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
+    </string-array>
+    <string-array name="month_of_year">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
+    </string-array>
+    <string-array name="offalarm_entries">
+        <item>전원 끄기</item>
+        <item>비행기 모드 끄기</item>
+        <item>비행기 모드 켜기</item>
+    </string-array>
+    <array name="snooze_duration_entries">
+        <item>5분</item>
+        <item>@com.htc:string/tm_10_minutes</item>
+        <item>15분</item>
+        <item>20분</item>
+        <item>25분</item>
+        <item>@com.htc:string/tm_30_minutes</item>
+    </array>
+    <array name="volume_button_setting_entries">
+        <item>@com.htc:string/st_none</item>
+        <item>다시 알림</item>
+        <item>@com.htc:string/va_dismiss</item>
+    </array>
+    <array name="sprint_volume_button_setting_entries">
+        <item>@com.htc:string/st_none</item>
+        <item>다시 알림</item>
+        <item>@com.htc:string/va_dismiss</item>
+        <item>무음</item>
+    </array>
+    <array name="sound_selection_setting_entries">
+        <item>알람 소리</item>
+        <item>@com.htc:string/nn_ringtone</item>
+        <item>@com.htc:string/nn_music</item>
+    </array>
+</resources>
